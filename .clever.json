@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_81646e4c-3496-450e-899a-370c920874c0",
+      "org_id": "user_d0f57996-e7b2-40a9-afee-a87c7e355d16",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_81646e4c-3496-450e-899a-370c920874c0.git",
+      "name": "scaffold_bad_app",
+      "alias": "scaffold_bad_app"
+    }
+  ]
+}

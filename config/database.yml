@@ -80,6 +80,4 @@ test:
 #
 production:
   <<: *default
-  database: scafolding_bad_app_production
-  username: scafolding_bad_app
-  password: <%= ENV['SCAFOLDING_BAD_APP_DATABASE_PASSWORD'] %>
+  url: <%= ENV['POSTGRESQL_ADDON_URI'] %>
